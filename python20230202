@@ -1,3 +1,4 @@
+Q2. (https://www.acmicpc.net/problem/1110)
 cycle = 0
 N = int(input('0보다 크거나 같고 00보다 작은 정수 N을 입력해보세용: '))
 original_N = N
